@@ -1,0 +1,36 @@
+{
+    "canvas_size": "iPhone 6.9",
+    "bezels_dir": "resources/product-bezels",
+    "screenshots": [
+        {
+            "input": "screenshots/screenshot_1.png",
+            "title": "MyApp",
+            "tagline": "Amazing Feature",
+            "background": {
+                "top": "#A855F7",
+                "bottom": "#3B82F6"
+            },
+            "output": "marketing/screenshot_1.png"
+        },
+        {
+            "input": "screenshots/screenshot_2.png",
+            "title": "MyApp",
+            "tagline": "Another Great Feature",
+            "background": {
+                "top": "#10B981",
+                "bottom": "#3B82F6"
+            },
+            "output": "marketing/screenshot_2.png"
+        },
+        {
+            "input": "screenshots/screenshot_3.png",
+            "title": "MyApp",
+            "tagline": "One More Thing",
+            "background": {
+                "top": "#F59E0B",
+                "bottom": "#EF4444"
+            },
+            "output": "marketing/screenshot_3.png"
+        }
+    ]
+}
